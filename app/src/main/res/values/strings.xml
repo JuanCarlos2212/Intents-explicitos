@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sem2_CCJE_AppBanco</string>
+    <string name="SplashText">Splash</string>
+    <string name="RegistrarText">Registrar</string>
+    <string name="GoogleText">Google</string>
+    <string name="LoginText">Login</string>
+    <string name="ReporteText">Reporte</string>
+    <string name="ContactosText">Contacto</string>
+    <string name="intentImplicitosText">Intents Implicitos</string>
+    <string name="TelefonoText">Telefono</string>
+    <string name="MapaText">Mapa</string>
+    <string name="CamaraText">Camara</string>
+    <string name="ContactosIntText">Contactos</string>
+    <string name="ConfiguracionText">Configuracion</string>
+    <string name="AlarmaText">Alarma</string>
+    <string name="ArchivosText">Archivos</string>
+</resources>
